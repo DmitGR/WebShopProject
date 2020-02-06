@@ -1,0 +1,98 @@
+#devices-list > li{
+    margin-left: 15px;
+    margin-top: 10px;
+    border:  none; /*1px solid black;*/
+    width: 800px;
+    height: 230px;
+    float: left;
+}
+
+.style-title-grid{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.style-title-grid a{
+    font: bold 15px sans-serif;
+    color: #0A83AB;
+    text-decoration: underline;
+}
+
+.mini-features{
+    margin-top: 33px;
+    padding-right: 10px;
+    font: 12px sans-serif;
+}
+
+.style-title-grid a:hover{
+    color: #E26666;
+}
+
+.device-img {
+    margin: auto;
+    height: auto;
+    width: 200px;
+    max-height: 229px;
+    vertical-align: center;
+}
+
+.date-img {
+    position: absolute;
+    margin-left: -8px;
+    /*margin-top: -5px;*/
+    height: 15px;
+    width: 15px;
+}
+
+.block-img-grid{
+    display: flex;
+    width: auto;
+    height: 230px;
+    float: left;
+    margin-right: 15px;
+}
+
+.reviews-grid-comment
+{
+    height: 20px;
+    margin-top: 5px;
+}
+
+.reviews-grid-comment > li{
+    float: left;
+    margin-left: 10px;
+    margin-top: 3px;
+    display: block;
+}
+
+.reviews-grid-comment > li > p{
+    margin-left: 15px;
+    font: 13px sans-serif;
+    margin-top: -1px;
+}
+
+.bag-img {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-top: 2px;
+}
+
+.price{
+    float: left;
+    padding-left: 30px;
+    font: 22px bold sans-serif;
+    color: crimson;
+}
+
+.date_time{
+    padding-left: 20px;
+    font: 13px italic sans-serif;
+    color: #ABABAB;
+}
+.block-device{
+    background-image: url("/img/block-device2.png");
+    list-style-type: none;
+    padding-top: 10px;
+
+}
