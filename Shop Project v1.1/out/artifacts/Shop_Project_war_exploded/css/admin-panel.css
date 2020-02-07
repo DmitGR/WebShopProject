@@ -1,0 +1,102 @@
+#img-logo{
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 20%;
+    z-index: -1;
+}
+#img-logo2{
+    width: 560px;
+    height: auto;
+    margin-top: 5px;
+    z-index: -1;
+}
+
+#block-adminPanel{
+    width: 640px;
+    height: auto;
+    margin-left: 28%;
+    border: 1px solid darkgray;
+
+
+    margin-top: 50px;
+}
+#block-admin-search
+{
+    margin-left: 12%;
+    margin-top: 10px;
+}
+#admin-search{
+    margin-left: 5px;
+    width: 436px;
+}
+
+.h2-title{
+    margin-left: 40%;
+    font: 25px sans-serif;
+    border-bottom: 1px solid #EEEEEE;
+    padding-bottom:  3px;
+    text-align: center;
+}
+.h2-title2{
+    margin-right: 52%;
+    font: 25px sans-serif;
+    border-bottom: 1px solid #EEEEEE;
+    padding-bottom:  3px;
+    text-align: center;
+}
+#block-users-list{
+    margin-top: 20px;
+}
+#users-list{
+
+    margin-left: 32% ;
+    margin-top: 12px;
+}
+#users-list > li{
+    margin-left: 16px;
+    margin-top: 8px;
+}
+#users-list > li > label{
+    border-left: outset 5px coral;
+}
+.user-info{
+    font: 15px oblique;
+    font-family: cursive;
+    color: #0A9AAA;
+    box-shadow: #1d1d1d;
+}
+.profile-img{
+    float: left;
+    margin-left: 15px;
+    height: auto;
+    width: 240px;
+}
+#profile-content{
+    margin-top: 20px;
+}
+#block-user-info{
+    margin-left: 40%;
+}
+#block-user-info > li{
+    margin-top: 6px;
+}
+.passbuttons{
+    margin-bottom: 150px;
+}
+#search-btn
+{
+    float: right;
+}
+
+
+.sale{
+    margin-top: 10px;
+border: 2px solid sandybrown;
+    border-radius: 2px;
+}
+.sale label{
+    font: 16px oblique;
+    color: brown;
+
+}

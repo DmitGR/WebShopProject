@@ -1,0 +1,250 @@
+/*--------Вывод    товаров--------------*/
+#devices-list > li{
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    border:  none;/*1px solid black; *//*TO DELETE*/
+    width: 380px;
+    height: 230px;
+    float: left;
+}
+
+.style-title-grid{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.style-title-grid a{
+    font: bold 15px sans-serif;
+    color: #0A83AB;
+    text-decoration: underline;
+}
+
+.mini-features{
+    margin-top: 50px;
+    padding-right: 10px;
+    font: 12px sans-serif;
+}
+
+.style-title-grid a:hover{
+    color: #E26666;
+}
+
+.device-img {
+    margin: auto;
+    height: 220px;
+    width: 200px;
+    max-height: 229px;
+    vertical-align: center;  }
+
+.date-img {
+    position: absolute;
+    margin-left: -8px;
+    /*margin-top: -5px;*/
+    height: 15px;
+    width: 15px;
+}
+
+.block-img-grid{
+    display: flex;
+    width:auto;
+    height: 230px;
+    float: left;
+    margin-left: 15px;
+}
+
+.reviews-grid-comment
+{
+    height: 20px;
+    margin-top: 5px;
+}
+
+.reviews-grid-comment > li{
+    float: left;
+    margin-left: 10px;
+    margin-top: 3px;
+    display: block;
+}
+
+.reviews-grid-comment > li > p{
+    margin-left: 15px;
+    font: 13px sans-serif;
+    margin-top: -1px;
+}
+
+.bag-img {
+    margin-top: 12px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+}
+
+
+.price{
+    float: left;
+    margin-top: 12px;
+    padding-left: 30px;
+    font: 22px bold sans-serif;
+    color: crimson;
+}
+
+
+.date_time{
+    padding-left: 20px;
+    font: 13px sans-serif;
+    color: #202020;
+}
+.block-device{
+    background-image: url("/img/block-device.png");
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+/*
+----------------Страница товара-------------------------*/
+
+.block-img-grid-full{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
+
+.device-img-full{
+    float: inherit;
+    max-height: 400px;
+    max-width: 800px;
+    width: auto;
+    height: auto;
+
+}
+
+.block-device-full{
+    padding-left: 25px;
+    list-style-type: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.bag-li-full{
+    list-style-type: none;
+    margin-top: 10px;
+    margin-right: 12px;
+    float: right;
+}
+.bag-li-full:hover{
+    height: 54px;
+    cursor: pointer;
+}
+
+.style-title-grid-full a{
+    padding-left: 15px;
+
+    font: bold 24px sans-serif;
+    color: #0A83AB;
+    text-decoration: none;
+
+}
+
+.full-description{
+    font: 18px sans-serif;
+    color: #141414;
+    padding-left: 15px;
+    margin-left: 20%;
+
+}
+
+
+.full-page-block-headler{
+    font: 22px bold sans-serif;
+    color: #000000;
+    padding-top: 64px;
+    padding-bottom: 12px;
+    margin-left: 22%;
+}
+
+
+#device-full > li{
+      /*margin-left: 15px;*/
+      margin-top: 50px;
+      border:  1px solid black;
+      max-width: 810px;
+      float: left;
+
+  }
+
+.price-full {
+    margin-right: 15%;
+    float: left;
+    font: 20px bold sans-serif;
+    color: #0A9AAA;
+}
+
+.bag-img-full {
+    padding-left: 10px;
+    float: right;
+    margin-right: 20px;
+    position: relative;
+    height: 32px;
+    width: 32px;
+    margin-top: -28px;
+}
+
+.date-li-full{
+    float: right;
+    padding-right: 15px;
+    margin-top: -20px;
+}
+
+.seller-info-block{
+    margin-left: 20%;
+}
+.seller-info-block :first-child{
+    margin-left: 15px;
+
+    color: #1d1d1d;
+    font: 20px  bold sans-serif;
+}
+.seller-info-name{
+    margin-left: 15px;
+    color: #0A83AB;
+    padding-top: 1px;
+    font: 26px bold sans-serif;
+
+}
+.seller-info-phone{
+    margin-left: 15px;
+    color: #3763b8;
+    padding-top: 1px;
+    font: 22px bold sans-serif;
+
+}
+.seller-info-email{
+    margin-left: 15px;
+    color: #3763b8;
+    padding-top: 1px;
+    font: 22px bold sans-serif;
+}
+.seller-info-stock{
+    margin-left: 15px;
+    color: #3763b8;
+    padding-top: 1px;
+    font: 22px bold sans-serif
+}
+.wish-text{
+    float: left;
+    font: 20px bold sans-serif;
+    color: #0A9AAA;
+}
+.wish-btn-full{
+     margin-top: -12px;
+     position: relative;
+     height: 48px;
+     width: 48px;
+ }
+.wish-btn-full:hover{
+    height: 50px;
+    cursor: pointer;
+}

@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edc88b9a-4ef0-4249-8fbb-b96d85ddf0d9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="web_shop@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="web_shop@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="web_shop@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="users" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="web_shop@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="products" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Shop Project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="editProduct.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/editProduct.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="63" column="85" lean-forward="false" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editing-product-script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/editing-product-script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user-info-script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/user-info-script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="39" column="78" lean-forward="false" selection-start-line="39" selection-start-column="78" selection-end-line="39" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reg.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/reg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="128" column="27" lean-forward="false" selection-start-line="128" selection-start-column="27" selection-end-line="128" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/registration.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="56" column="4" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="59" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adding-product-script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/adding-product-script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddProduct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Servlets/AddProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditProduct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Servlets/EditProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Logic/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+              <folding>
+                <element signature="method#Product#1;class#Product#0" expanded="false" />
+                <element signature="method#Product#2;class#Product#0" expanded="false" />
+                <element signature="method#Product#3;class#Product#0" expanded="false" />
+                <element signature="method#Product#4;class#Product#0" expanded="false" />
+                <element signature="method#Product#5;class#Product#0" expanded="false" />
+                <element signature="method#Product#6;class#Product#0" expanded="false" />
+                <element signature="method#Product#7;class#Product#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBConnector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Logic/JDBConnector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="542" column="0" lean-forward="false" selection-start-line="542" selection-start-column="0" selection-end-line="542" selection-end-column="0" />
+              <folding>
+                <element signature="docComment;class#JDBConnector#0" expanded="false" />
+                <element signature="method#JDBConnector#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#Search#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#GetSortedData#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#AddUser#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#Verification#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#Authorisation#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#NewPass#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#ChangePass#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#checkUser#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#getUserEmail#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#GetProductList#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#Remove#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#RemoveFromWish#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#RemoveFromSale#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#BuyProduct#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#AddToWish#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#SearchUsers#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#GetUserInfo#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#ChangeUserInfo#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#GetSellerID#0;class#JDBConnector#0" expanded="false" />
+                <element signature="method#GetSales#0;class#JDBConnector#0" expanded="false" />
+                <marker date="1559474927829" expanded="false" signature="1729:1992" ph="SELECT * FRO... products" />
+                <marker date="1559474927829" expanded="false" signature="7929:8065" ph="INSERT INTO web_shop.users... " />
+                <marker date="1559474927829" expanded="false" signature="9180:9223" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="9577:9642" ph="UPDATE db_sh... " />
+                <marker date="1559474927829" expanded="false" signature="10013:10092" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="11137:11181" ph="{...}" />
+                <marker date="1559474927829" expanded="false" signature="11336:11394" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="11837:11892" ph="UPDATE db_sh... " />
+                <marker date="1559474927829" expanded="false" signature="12402:12457" ph="UPDATE db_sh... " />
+                <marker date="1559474927829" expanded="false" signature="12725:12770" ph="SELECT id FR... users" />
+                <marker date="1559474927829" expanded="false" signature="13288:13345" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="13918:13959" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="15861:15913" ph="SELECT selle... products" />
+                <marker date="1559474927829" expanded="false" signature="16911:16978" ph="DELETE FROM " />
+                <marker date="1559474927829" expanded="false" signature="17663:17723" ph="DELETE FROM " />
+                <marker date="1559474927829" expanded="false" signature="22309:22393" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="22309:22396" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="22309:22565" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="22309:22604" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="22309:22623" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="23524:23556" ph="SELECT * FRO... users" />
+                <marker date="1559474927829" expanded="false" signature="24786:24884" ph="UPDATE web_s... " />
+                <marker date="1559474927829" expanded="false" signature="24786:24897" ph="UPDATE web_s... " />
+                <marker date="1559474927829" expanded="false" signature="24786:24898" ph="UPDATE web_s... " />
+                <marker date="1559474927829" expanded="false" signature="25780:25823" ph="SELECT selle... products" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>action</find>
+      <find>settings</find>
+      <find>sess</find>
+      <find>&lt;li&gt;</find>
+      <find>block</find>
+      <find>admin</find>
+      <find>user</find>
+      <find>reg</find>
+      <find>addPro</find>
+      <find>addProd</find>
+      <find>addProdB</find>
+      <find>h2</find>
+      <find>h</find>
+      <find>pre</find>
+      <find>profe</find>
+      <find>block-u</find>
+      <find>профиль</find>
+      <find>search</find>
+      <find>filter</find>
+      <find>User</find>
+      <find>alert</find>
+      <find>Add</find>
+      <find>getp</find>
+      <find>add</find>
+      <find>btn</find>
+      <find>AddPr</find>
+      <find>addpro</find>
+      <find>id</find>
+      <find>chane</find>
+      <find>bind</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>'</replace>
+      <replace>buy</replace>
+      <replace>Edit</replace>
+      <replace>edit</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Servlets/UsersSearch.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/ChangeUser.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/ChangePass.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/Verification.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/Registration.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/RemoveProduct.java" />
+        <option value="$PROJECT_DIR$/web/BuyProduct.jsp" />
+        <option value="$PROJECT_DIR$/web/profile.jsp" />
+        <option value="$PROJECT_DIR$/src/Servlets/G.java" />
+        <option value="$PROJECT_DIR$/src/Logic/Sale.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/GetSales.java" />
+        <option value="$PROJECT_DIR$/web/css/admin-panel.css" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/admin-panel/user-profile.jsp" />
+        <option value="$PROJECT_DIR$/web/include/block-header.jsp" />
+        <option value="$PROJECT_DIR$/web/js/passRecovery-script.js" />
+        <option value="$PROJECT_DIR$/web/js/profile-script.js" />
+        <option value="$PROJECT_DIR$/web/js/wishList-script.js" />
+        <option value="$PROJECT_DIR$/src/Logic/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Logic/HashCodeGen.java" />
+        <option value="$PROJECT_DIR$/src/Logic/MailSender.java" />
+        <option value="$PROJECT_DIR$/web/passRecovery.jsp" />
+        <option value="$PROJECT_DIR$/src/Servlets/CheckLogin.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/Authorization.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/ForgotPass.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/Load.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/Search.java" />
+        <option value="$PROJECT_DIR$/src/Logic/Sort.java" />
+        <option value="$PROJECT_DIR$/src/Logic/User.java" />
+        <option value="$PROJECT_DIR$/web/js/shop-script.js" />
+        <option value="$PROJECT_DIR$/web/js/reg.js" />
+        <option value="$PROJECT_DIR$/web/js/prod-list.js" />
+        <option value="$PROJECT_DIR$/web/js/auth-script.js" />
+        <option value="$PROJECT_DIR$/web/css/buyProd.css" />
+        <option value="$PROJECT_DIR$/web/js/buy-script.js" />
+        <option value="$PROJECT_DIR$/src/Servlets/BuyProduct.java" />
+        <option value="$PROJECT_DIR$/web/admin-panel/users-list.jsp" />
+        <option value="$PROJECT_DIR$/web/js/adminPanel-list.js" />
+        <option value="$PROJECT_DIR$/web/buyProduct.jsp" />
+        <option value="$PROJECT_DIR$/web/addingProduct.jsp" />
+        <option value="$PROJECT_DIR$/src/Servlets/AddProduct.java" />
+        <option value="$PROJECT_DIR$/web/js/fullPage-script.js" />
+        <option value="$PROJECT_DIR$/src/Logic/Product.java" />
+        <option value="$PROJECT_DIR$/web/css/style.css" />
+        <option value="$PROJECT_DIR$/web/editProduct.jsp" />
+        <option value="$PROJECT_DIR$/src/Logic/JDBConnector.java" />
+        <option value="$PROJECT_DIR$/src/Servlets/EditProduct.java" />
+        <option value="$PROJECT_DIR$/web/js/editing-product-script.js" />
+        <option value="$PROJECT_DIR$/web/js/adding-product-script.js" />
+        <option value="$PROJECT_DIR$/web/js/user-info-script.js" />
+        <option value="$PROJECT_DIR$/web/registration.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="80" />
+    <option name="y" value="-8" />
+    <option name="width" value="1848" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin-panel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Servlets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29791895" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/AjaxFileUpload-master/AjaxFileUpload-master/AjaxFileUpload/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="SearchEverywhereHistoryKey" value="wish&#9;FILE&#9;file://E:/RGR/NEW/Shop Project/web/js/wishList-script.js&#10;addProd&#9;null&#9;null&#10;onclick&#9;null&#9;null&#10;title&#9;null&#9;null&#10;to-&#9;null&#9;null&#10;title-filter&#9;null&#9;null&#10;header-ti&#9;null&#9;null&#10;reg&#9;null&#9;null&#10;user-info&#9;null&#9;null" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Servlets" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Servlets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\RGR\NEW\Shop Project\web\js" />
+      <recent name="E:\RGR\NEW\Shop Project\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Server">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shop Project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <deployment>
+        <artifact name="Shop Project:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Shop_Project_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58873" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Shop Project:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Server" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edc88b9a-4ef0-4249-8fbb-b96d85ddf0d9" name="Default" comment="" />
+      <created>1557826182690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557826182690</updated>
+      <workItem from="1557826194123" duration="412000" />
+      <workItem from="1557826734864" duration="18142000" />
+      <workItem from="1557857623895" duration="417000" />
+      <workItem from="1557926002057" duration="11053000" />
+      <workItem from="1557940494221" duration="3318000" />
+      <workItem from="1558026721542" duration="3703000" />
+      <workItem from="1558087542281" duration="6136000" />
+      <workItem from="1558191150603" duration="5601000" />
+      <workItem from="1558248822522" duration="17164000" />
+      <workItem from="1558424140934" duration="3807000" />
+      <workItem from="1558428107178" duration="9055000" />
+      <workItem from="1558441133760" duration="6590000" />
+      <workItem from="1558515626509" duration="1933000" />
+      <workItem from="1558538236885" duration="815000" />
+      <workItem from="1558666990377" duration="9406000" />
+      <workItem from="1558706201486" duration="624000" />
+      <workItem from="1558763219314" duration="2479000" />
+      <workItem from="1558853983076" duration="14314000" />
+      <workItem from="1558948664750" duration="599000" />
+      <workItem from="1558958143794" duration="2552000" />
+      <workItem from="1558961177418" duration="6167000" />
+      <workItem from="1559024289309" duration="17758000" />
+      <workItem from="1559223245089" duration="3500000" />
+      <workItem from="1559395684752" duration="2427000" />
+      <workItem from="1559404828937" duration="598000" />
+      <workItem from="1559455101092" duration="18303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="166873000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="80" y="-8" width="1848" height="1096" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20664589" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13420622" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15415822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17248908" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Servlets/ChangePass.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Logic/JDBConnector.java</url>
+          <line>497</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Logic/JDBConnector.java</url>
+          <line>485</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="199" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Servlets/Authorization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/CheckLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/ForgotPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/GetProductList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/GetSales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/Load.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/Registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/RemoveProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/UploadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+          <folding>
+            <element signature="docComment;method#UploadFile#0;class#UploadFile#0" expanded="false" />
+            <element signature="docComment;method#doGet#0;class#UploadFile#0" expanded="false" />
+            <element signature="docComment;method#doPost#0;class#UploadFile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/UsersSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/Verification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/MailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/JSSEProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="method#JSSEProvider#0;class#JSSEProvider#0" expanded="false" />
+            <element signature="class#270:844" expanded="false" />
+            <element signature="method#run#0;class#270:844" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/Sale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="93" lean-forward="false" selection-start-line="20" selection-start-column="93" selection-end-line="20" selection-end-column="93" />
+          <folding>
+            <element signature="method#Sale#0;class#Sale#0" expanded="false" />
+            <element signature="method#Sale#1;class#Sale#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding>
+            <element signature="method#User#0;class#User#0" expanded="false" />
+            <element signature="method#User#1;class#User#0" expanded="false" />
+            <element signature="method#User#2;class#User#0" expanded="false" />
+            <element signature="method#User#3;class#User#0" expanded="false" />
+            <element signature="method#User#4;class#User#0" expanded="false" />
+            <element signature="method#User#6;class#User#0" expanded="false" />
+            <element signature="method#User#7;class#User#0" expanded="false" />
+            <element signature="method#User#8;class#User#0" expanded="false" />
+            <element signature="method#User#9;class#User#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/Verification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/shop-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#11#123#0" expanded="false" />
+            <element signature="e#140#215#0" expanded="false" />
+            <element signature="e#235#583#0" expanded="false" />
+            <element signature="e#831#877#0" expanded="false" />
+            <element signature="e#878#923#0" expanded="false" />
+            <element signature="e#1718#1871#0" expanded="false" />
+            <element signature="n#!!block;n#resetSortParameters#0" expanded="false" />
+            <element signature="e#5877#6135#0" expanded="false" />
+            <element signature="e#7262#7452#0" expanded="false" />
+            <element signature="e#7406#7446#0" expanded="false" />
+            <element signature="n#!!block;n#choose#0" expanded="false" />
+            <element signature="n#!!block;n#addToPage#0" expanded="false" />
+            <element signature="e#7643#8753#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/profile-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/prod-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#107#1025#0" expanded="false" />
+            <element signature="e#167#830#0" expanded="false" />
+            <element signature="e#210#489#0" expanded="false" />
+            <element signature="e#224#457#0" expanded="false" />
+            <element signature="e#551#674#0" expanded="false" />
+            <element signature="e#696#755#0" expanded="false" />
+            <element signature="n#!!doc;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="e#1112#1139#0" expanded="false" />
+            <element signature="e#1152#1361#0" expanded="false" />
+            <element signature="e#1315#1355#0" expanded="false" />
+            <element signature="n#!!block;n#addToPage#0" expanded="false" />
+            <element signature="e#1466#2741#0" expanded="false" />
+            <element signature="n#!!block;n#choose#0" expanded="false" />
+            <element signature="n#!!doc;n#remove#0" expanded="false" />
+            <element signature="n#!!block;n#remove#0" expanded="false" />
+            <element signature="e#2922#2978#0" expanded="false" />
+            <element signature="e#2991#3342#0" expanded="false" />
+            <element signature="e#3153#3336#0" expanded="false" />
+            <element signature="e#3181#3277#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/passRecovery-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/jquery.validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#176#440#0" expanded="false" />
+            <element signature="e#232#278#0" expanded="false" />
+            <element signature="e#334#398#0" expanded="false" />
+            <element signature="e#404#438#0" expanded="false" />
+            <element signature="e#455#67290#0" expanded="false" />
+            <element signature="e#478#8475#0" expanded="false" />
+            <element signature="e#569#4841#0" expanded="false" />
+            <element signature="e#678#895#0" expanded="false" />
+            <element signature="e#746#857#0" expanded="false" />
+            <element signature="e#1058#1107#0" expanded="false" />
+            <element signature="e#1375#4800#0" expanded="false" />
+            <element signature="e#1450#2164#0" expanded="false" />
+            <element signature="e#1473#1532#0" expanded="false" />
+            <element signature="e#1794#1872#0" expanded="false" />
+            <element signature="e#2068#2146#0" expanded="false" />
+            <element signature="e#2278#4783#0" expanded="false" />
+            <element signature="e#2332#2484#0" expanded="false" />
+            <element signature="e#2523#4099#0" expanded="false" />
+            <element signature="e#2594#2665#0" expanded="false" />
+            <element signature="e#3103#3416#0" expanded="false" />
+            <element signature="e#3482#4040#0" expanded="false" />
+            <element signature="e#3645#3837#0" expanded="false" />
+            <element signature="e#3894#3972#0" expanded="false" />
+            <element signature="e#4233#4353#0" expanded="false" />
+            <element signature="e#4398#4648#0" expanded="false" />
+            <element signature="e#4456#4585#0" expanded="false" />
+            <element signature="e#4654#4765#0" expanded="false" />
+            <element signature="e#4917#5563#0" expanded="false" />
+            <element signature="e#5012#5075#0" expanded="false" />
+            <element signature="e#5081#5527#0" expanded="false" />
+            <element signature="e#5243#5461#0" expanded="false" />
+            <element signature="e#5343#5443#0" expanded="false" />
+            <element signature="e#5658#8469#0" expanded="false" />
+            <element signature="e#5889#5928#0" expanded="false" />
+            <element signature="e#6008#6135#0" expanded="false" />
+            <element signature="e#6177#6216#0" expanded="false" />
+            <element signature="e#6245#7623#0" expanded="false" />
+            <element signature="e#6450#7609#0" expanded="false" />
+            <element signature="e#6858#7015#0" expanded="false" />
+            <element signature="e#7123#7264#0" expanded="false" />
+            <element signature="e#7386#7547#0" expanded="false" />
+            <element signature="e#8055#8209#0" expanded="false" />
+            <element signature="e#8285#8433#0" expanded="false" />
+            <element signature="e#8547#9169#0" expanded="false" />
+            <element signature="e#8756#8816#0" expanded="false" />
+            <element signature="e#8906#9010#0" expanded="false" />
+            <element signature="e#9106#9163#0" expanded="false" />
+            <element signature="e#9247#9385#0" expanded="false" />
+            <element signature="e#9497#10270#0" expanded="false" />
+            <element signature="e#9537#9751#0" expanded="false" />
+            <element signature="e#9569#9740#0" expanded="false" />
+            <element signature="e#9788#9826#0" expanded="false" />
+            <element signature="e#9896#9965#0" expanded="false" />
+            <element signature="e#10010#10054#0" expanded="false" />
+            <element signature="e#10096#10238#0" expanded="false" />
+            <element signature="e#10184#10225#0" expanded="false" />
+            <element signature="e#10300#66000#0" expanded="false" />
+            <element signature="e#10321#13825#0" expanded="false" />
+            <element signature="e#10812#11287#0" expanded="false" />
+            <element signature="e#10987#11273#0" expanded="false" />
+            <element signature="e#11042#11190#0" expanded="false" />
+            <element signature="e#11333#11530#0" expanded="false" />
+            <element signature="e#11452#11516#0" expanded="false" />
+            <element signature="e#11580#12634#0" expanded="false" />
+            <element signature="e#11599#11668#0" expanded="false" />
+            <element signature="e#12187#12299#0" expanded="false" />
+            <element signature="e#12433#12480#0" expanded="false" />
+            <element signature="e#12556#12620#0" expanded="false" />
+            <element signature="e#12677#13089#0" expanded="false" />
+            <element signature="e#12799#12945#0" expanded="false" />
+            <element signature="e#13000#13075#0" expanded="false" />
+            <element signature="e#13158#13451#0" expanded="false" />
+            <element signature="e#13208#13329#0" expanded="false" />
+            <element signature="e#13335#13437#0" expanded="false" />
+            <element signature="e#13522#13815#0" expanded="false" />
+            <element signature="e#13572#13693#0" expanded="false" />
+            <element signature="e#13699#13801#0" expanded="false" />
+            <element signature="e#13940#14007#0" expanded="false" />
+            <element signature="e#14028#15130#0" expanded="false" />
+            <element signature="e#15186#47951#0" expanded="false" />
+            <element signature="e#15218#18130#0" expanded="false" />
+            <element signature="e#15884#16165#0" expanded="false" />
+            <element signature="e#15939#16015#0" expanded="false" />
+            <element signature="e#16075#16144#0" expanded="false" />
+            <element signature="e#16268#16358#0" expanded="false" />
+            <element signature="e#16406#17116#0" expanded="false" />
+            <element signature="e#16548#16703#0" expanded="false" />
+            <element signature="e#16997#17098#0" expanded="false" />
+            <element signature="e#17724#17749#0" expanded="false" />
+            <element signature="e#17994#18116#0" expanded="false" />
+            <element signature="e#18222#18607#0" expanded="false" />
+            <element signature="e#18416#18521#0" expanded="false" />
+            <element signature="e#18644#18910#0" expanded="false" />
+            <element signature="e#18791#18859#0" expanded="false" />
+            <element signature="e#19017#21136#0" expanded="false" />
+            <element signature="e#19301#19382#0" expanded="false" />
+            <element signature="e#19388#21090#0" expanded="false" />
+            <element signature="e#19530#19601#0" expanded="false" />
+            <element signature="e#19739#20366#0" expanded="false" />
+            <element signature="e#19814#20341#0" expanded="false" />
+            <element signature="e#19901#20315#0" expanded="false" />
+            <element signature="e#20094#20285#0" expanded="false" />
+            <element signature="e#20504#20594#0" expanded="false" />
+            <element signature="e#20600#20689#0" expanded="false" />
+            <element signature="e#20743#20904#0" expanded="false" />
+            <element signature="e#21248#22211#0" expanded="false" />
+            <element signature="e#21280#21968#0" expanded="false" />
+            <element signature="e#21520#21720#0" expanded="false" />
+            <element signature="e#21553#21697#0" expanded="false" />
+            <element signature="e#21864#21947#0" expanded="false" />
+            <element signature="e#22017#22126#0" expanded="false" />
+            <element signature="e#22132#22197#0" expanded="false" />
+            <element signature="e#22313#22782#0" expanded="false" />
+            <element signature="e#22353#22427#0" expanded="false" />
+            <element signature="e#22833#23444#0" expanded="false" />
+            <element signature="e#22908#23245#0" expanded="false" />
+            <element signature="e#22964#23227#0" expanded="false" />
+            <element signature="e#23251#23430#0" expanded="false" />
+            <element signature="e#23488#23561#0" expanded="false" />
+            <element signature="e#23606#24084#0" expanded="false" />
+            <element signature="e#23624#23650#0" expanded="false" />
+            <element signature="e#23738#24040#0" expanded="false" />
+            <element signature="e#23761#23821#0" expanded="false" />
+            <element signature="e#23966#24022#0" expanded="false" />
+            <element signature="e#24122#24184#0" expanded="false" />
+            <element signature="e#24229#24352#0" expanded="false" />
+            <element signature="e#24385#24442#0" expanded="false" />
+            <element signature="e#24474#24535#0" expanded="false" />
+            <element signature="e#24575#25228#0" expanded="false" />
+            <element signature="e#24627#25214#0" expanded="false" />
+            <element signature="e#24653#25076#0" expanded="false" />
+            <element signature="e#25089#25196#0" expanded="false" />
+            <element signature="e#25270#25531#0" expanded="false" />
+            <element signature="e#25397#25487#0" expanded="false" />
+            <element signature="e#25567#26980#0" expanded="false" />
+            <element signature="e#26006#26963#0" expanded="false" />
+            <element signature="e#26188#26293#0" expanded="false" />
+            <element signature="e#26428#26575#0" expanded="false" />
+            <element signature="e#26783#26852#0" expanded="false" />
+            <element signature="e#27023#27081#0" expanded="false" />
+            <element signature="e#27115#27308#0" expanded="false" />
+            <element signature="e#27350#27555#0" expanded="false" />
+            <element signature="e#27588#27690#0" expanded="false" />
+            <element signature="e#27729#27842#0" expanded="false" />
+            <element signature="e#27893#27995#0" expanded="false" />
+            <element signature="e#28044#29647#0" expanded="false" />
+            <element signature="e#28226#28332#0" expanded="false" />
+            <element signature="e#28406#28504#0" expanded="false" />
+            <element signature="e#28571#28633#0" expanded="false" />
+            <element signature="e#28639#28700#0" expanded="false" />
+            <element signature="e#28741#29484#0" expanded="false" />
+            <element signature="e#28868#28940#0" expanded="false" />
+            <element signature="e#28962#28980#0" expanded="false" />
+            <element signature="e#29106#29183#0" expanded="false" />
+            <element signature="e#29314#29391#0" expanded="false" />
+            <element signature="e#29533#29605#0" expanded="false" />
+            <element signature="e#29689#33126#0" expanded="false" />
+            <element signature="e#29883#29940#0" expanded="false" />
+            <element signature="e#30126#30205#0" expanded="false" />
+            <element signature="e#30358#30428#0" expanded="false" />
+            <element signature="e#30488#30566#0" expanded="false" />
+            <element signature="e#30584#30663#0" expanded="false" />
+            <element signature="e#30808#31205#0" expanded="false" />
+            <element signature="e#30921#31039#0" expanded="false" />
+            <element signature="e#31247#32869#0" expanded="false" />
+            <element signature="e#31349#32294#0" expanded="false" />
+            <element signature="e#31484#31556#0" expanded="false" />
+            <element signature="e#31721#31841#0" expanded="false" />
+            <element signature="e#31947#32098#0" expanded="false" />
+            <element signature="e#32139#32272#0" expanded="false" />
+            <element signature="e#32307#32851#0" expanded="false" />
+            <element signature="e#32378#32560#0" expanded="false" />
+            <element signature="e#32615#32795#0" expanded="false" />
+            <element signature="e#32912#32959#0" expanded="false" />
+            <element signature="e#33010#33083#0" expanded="false" />
+            <element signature="e#33141#33213#0" expanded="false" />
+            <element signature="e#33431#33624#0" expanded="false" />
+            <element signature="e#33769#33916#0" expanded="false" />
+            <element signature="e#34028#34285#0" expanded="false" />
+            <element signature="e#34091#34237#0" expanded="false" />
+            <element signature="e#34149#34219#0" expanded="false" />
+            <element signature="e#34300#34385#0" expanded="false" />
+            <element signature="e#34803#35858#0" expanded="false" />
+            <element signature="e#34853#34917#0" expanded="false" />
+            <element signature="e#35551#35648#0" expanded="false" />
+            <element signature="e#35686#35811#0" expanded="false" />
+            <element signature="e#35913#36289#0" expanded="false" />
+            <element signature="e#36021#36156#0" expanded="false" />
+            <element signature="e#36337#36539#0" expanded="false" />
+            <element signature="e#36384#36492#0" expanded="false" />
+            <element signature="e#36584#37850#0" expanded="false" />
+            <element signature="e#36682#37022#0" expanded="false" />
+            <element signature="e#36784#36936#0" expanded="false" />
+            <element signature="e#37068#37157#0" expanded="false" />
+            <element signature="e#37203#37373#0" expanded="false" />
+            <element signature="e#37267#37355#0" expanded="false" />
+            <element signature="e#37423#37684#0" expanded="false" />
+            <element signature="e#37512#37666#0" expanded="false" />
+            <element signature="e#37891#37981#0" expanded="false" />
+            <element signature="e#38024#38162#0" expanded="false" />
+            <element signature="e#38085#38145#0" expanded="false" />
+            <element signature="e#38217#42133#0" expanded="false" />
+            <element signature="e#38490#38766#0" expanded="false" />
+            <element signature="e#38772#41696#0" expanded="false" />
+            <element signature="e#39229#39515#0" expanded="false" />
+            <element signature="e#39256#39303#0" expanded="false" />
+            <element signature="e#39570#39654#0" expanded="false" />
+            <element signature="e#39696#39807#0" expanded="false" />
+            <element signature="e#39813#39890#0" expanded="false" />
+            <element signature="e#39993#40318#0" expanded="false" />
+            <element signature="e#40156#40232#0" expanded="false" />
+            <element signature="e#40416#41678#0" expanded="false" />
+            <element signature="e#40588#40666#0" expanded="false" />
+            <element signature="e#40761#40920#0" expanded="false" />
+            <element signature="e#41199#41656#0" expanded="false" />
+            <element signature="e#41313#41627#0" expanded="false" />
+            <element signature="e#41374#41597#0" expanded="false" />
+            <element signature="e#41754#42063#0" expanded="false" />
+            <element signature="e#41863#41951#0" expanded="false" />
+            <element signature="e#41957#42045#0" expanded="false" />
+            <element signature="e#42179#42804#0" expanded="false" />
+            <element signature="e#42534#42690#0" expanded="false" />
+            <element signature="e#42819#42877#0" expanded="false" />
+            <element signature="e#43073#43179#0" expanded="false" />
+            <element signature="e#43224#43368#0" expanded="false" />
+            <element signature="e#43424#43767#0" expanded="false" />
+            <element signature="e#43554#43636#0" expanded="false" />
+            <element signature="e#43813#43895#0" expanded="false" />
+            <element signature="e#43939#44054#0" expanded="false" />
+            <element signature="e#44107#44558#0" expanded="false" />
+            <element signature="e#44125#44507#0" expanded="false" />
+            <element signature="e#44366#44489#0" expanded="false" />
+            <element signature="e#44608#44740#0" expanded="false" />
+            <element signature="e#44768#45139#0" expanded="false" />
+            <element signature="e#44815#44868#0" expanded="false" />
+            <element signature="e#44923#45004#0" expanded="false" />
+            <element signature="e#45061#45125#0" expanded="false" />
+            <element signature="e#45184#45361#0" expanded="false" />
+            <element signature="e#45410#45671#0" expanded="false" />
+            <element signature="e#45465#45657#0" expanded="false" />
+            <element signature="e#45726#47057#0" expanded="false" />
+            <element signature="e#45905#45969#0" expanded="false" />
+            <element signature="e#46190#46819#0" expanded="false" />
+            <element signature="e#46265#46330#0" expanded="false" />
+            <element signature="e#46618#46752#0" expanded="false" />
+            <element signature="e#46890#47043#0" expanded="false" />
+            <element signature="e#47115#47484#0" expanded="false" />
+            <element signature="e#47288#47467#0" expanded="false" />
+            <element signature="e#47602#47940#0" expanded="false" />
+            <element signature="e#47981#48297#0" expanded="false" />
+            <element signature="e#48352#48576#0" expanded="false" />
+            <element signature="e#48406#48482#0" expanded="false" />
+            <element signature="e#48488#48566#0" expanded="false" />
+            <element signature="e#48619#49035#0" expanded="false" />
+            <element signature="e#48733#48999#0" expanded="false" />
+            <element signature="e#48792#48982#0" expanded="false" />
+            <element signature="e#48859#48964#0" expanded="false" />
+            <element signature="e#49109#49965#0" expanded="false" />
+            <element signature="e#49124#49214#0" expanded="false" />
+            <element signature="e#49392#49627#0" expanded="false" />
+            <element signature="e#49555#49613#0" expanded="false" />
+            <element signature="e#49669#49725#0" expanded="false" />
+            <element signature="e#49774#49955#0" expanded="false" />
+            <element signature="e#49793#49841#0" expanded="false" />
+            <element signature="e#50012#51248#0" expanded="false" />
+            <element signature="e#50220#50963#0" expanded="false" />
+            <element signature="e#50349#50795#0" expanded="false" />
+            <element signature="e#50432#50498#0" expanded="false" />
+            <element signature="e#50615#50676#0" expanded="false" />
+            <element signature="e#50801#50873#0" expanded="false" />
+            <element signature="e#51156#51211#0" expanded="false" />
+            <element signature="e#51290#51746#0" expanded="false" />
+            <element signature="e#51498#51710#0" expanded="false" />
+            <element signature="e#51790#52082#0" expanded="false" />
+            <element signature="e#51930#52046#0" expanded="false" />
+            <element signature="e#52136#54938#0" expanded="false" />
+            <element signature="e#52232#53257#0" expanded="false" />
+            <element signature="e#52354#52443#0" expanded="false" />
+            <element signature="e#52492#53243#0" expanded="false" />
+            <element signature="e#52555#52915#0" expanded="false" />
+            <element signature="e#52952#53059#0" expanded="false" />
+            <element signature="e#53065#53225#0" expanded="false" />
+            <element signature="e#53352#53486#0" expanded="false" />
+            <element signature="e#53591#53724#0" expanded="false" />
+            <element signature="e#53630#53710#0" expanded="false" />
+            <element signature="e#53787#54316#0" expanded="false" />
+            <element signature="e#53853#54302#0" expanded="false" />
+            <element signature="e#53909#54036#0" expanded="false" />
+            <element signature="e#54083#54284#0" expanded="false" />
+            <element signature="e#54369#54901#0" expanded="false" />
+            <element signature="e#54472#54627#0" expanded="false" />
+            <element signature="e#54702#54887#0" expanded="false" />
+            <element signature="e#55079#55375#0" expanded="false" />
+            <element signature="e#55125#55340#0" expanded="false" />
+            <element signature="e#55220#55287#0" expanded="false" />
+            <element signature="e#55499#55806#0" expanded="false" />
+            <element signature="e#55695#55796#0" expanded="false" />
+            <element signature="e#55892#65993#0" expanded="false" />
+            <element signature="e#56012#56658#0" expanded="false" />
+            <element signature="e#56115#56184#0" expanded="false" />
+            <element signature="e#56252#56469#0" expanded="false" />
+            <element signature="e#56519#56603#0" expanded="false" />
+            <element signature="e#56765#57301#0" expanded="false" />
+            <element signature="e#56784#56862#0" expanded="false" />
+            <element signature="e#57404#58201#0" expanded="false" />
+            <element signature="e#57423#57476#0" expanded="false" />
+            <element signature="e#58306#58425#0" expanded="false" />
+            <element signature="e#58536#58680#0" expanded="false" />
+            <element signature="e#58789#58916#0" expanded="false" />
+            <element signature="e#59025#59114#0" expanded="false" />
+            <element signature="e#59236#59418#0" expanded="false" />
+            <element signature="e#59540#59722#0" expanded="false" />
+            <element signature="e#59848#60063#0" expanded="false" />
+            <element signature="e#60173#60255#0" expanded="false" />
+            <element signature="e#60365#60447#0" expanded="false" />
+            <element signature="e#60561#60675#0" expanded="false" />
+            <element signature="e#60787#62374#0" expanded="false" />
+            <element signature="e#61202#61540#0" expanded="false" />
+            <element signature="e#61317#61382#0" expanded="false" />
+            <element signature="e#61586#61686#0" expanded="false" />
+            <element signature="e#61769#61821#0" expanded="false" />
+            <element signature="e#61969#62041#0" expanded="false" />
+            <element signature="e#62247#62301#0" expanded="false" />
+            <element signature="e#62492#63005#0" expanded="false" />
+            <element signature="e#62749#62944#0" expanded="false" />
+            <element signature="e#62854#62923#0" expanded="false" />
+            <element signature="e#63129#65983#0" expanded="false" />
+            <element signature="e#63179#63248#0" expanded="false" />
+            <element signature="e#63515#63599#0" expanded="false" />
+            <element signature="e#64029#64091#0" expanded="false" />
+            <element signature="e#64335#65923#0" expanded="false" />
+            <element signature="e#64597#65905#0" expanded="false" />
+            <element signature="e#64877#65359#0" expanded="false" />
+            <element signature="e#65365#65770#0" expanded="false" />
+            <element signature="e#66005#66024#0" expanded="false" />
+            <element signature="e#66319#66661#0" expanded="false" />
+            <element signature="e#66375#66652#0" expanded="false" />
+            <element signature="e#66460#66642#0" expanded="false" />
+            <element signature="e#66509#66581#0" expanded="false" />
+            <element signature="e#66667#67274#0" expanded="false" />
+            <element signature="e#66753#67267#0" expanded="false" />
+            <element signature="e#66951#67207#0" expanded="false" />
+            <element signature="e#67000#67072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/jquery.form.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/ajax-fileupload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#409#5797#0" expanded="false" />
+            <element signature="e#434#904#0" expanded="false" />
+            <element signature="e#967#1020#0" expanded="false" />
+            <element signature="e#1030#1090#0" expanded="false" />
+            <element signature="e#1185#5787#0" expanded="false" />
+            <element signature="e#1232#1290#0" expanded="false" />
+            <element signature="e#1473#1777#0" expanded="false" />
+            <element signature="e#1721#1765#0" expanded="false" />
+            <element signature="e#1837#1876#0" expanded="false" />
+            <element signature="e#1892#2153#0" expanded="false" />
+            <element signature="e#1958#2139#0" expanded="false" />
+            <element signature="e#2077#2125#0" expanded="false" />
+            <element signature="e#2204#3444#0" expanded="false" />
+            <element signature="e#2535#2780#0" expanded="false" />
+            <element signature="e#2798#3432#0" expanded="false" />
+            <element signature="e#2853#2906#0" expanded="false" />
+            <element signature="e#3002#3055#0" expanded="false" />
+            <element signature="e#3306#3418#0" expanded="false" />
+            <element signature="e#3551#3675#0" expanded="false" />
+            <element signature="e#3738#4314#0" expanded="false" />
+            <element signature="e#3847#3973#0" expanded="false" />
+            <element signature="e#3983#4036#0" expanded="false" />
+            <element signature="e#4327#4608#0" expanded="false" />
+            <element signature="e#4655#5777#0" expanded="false" />
+            <element signature="e#4993#5053#0" expanded="false" />
+            <element signature="e#5126#5272#0" expanded="false" />
+            <element signature="e#5366#5763#0" expanded="false" />
+            <element signature="e#5444#5722#0" expanded="false" />
+            <element signature="e#5551#5611#0" expanded="false" />
+            <marker date="1558436596615" expanded="false" signature="4889:4904" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/auth-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="e#83#126#0" expanded="false" />
+            <element signature="e#225#279#0" expanded="false" />
+            <element signature="e#333#1486#0" expanded="false" />
+            <element signature="e#442#956#0" expanded="false" />
+            <element signature="e#962#1480#0" expanded="false" />
+            <element signature="e#1538#2365#0" expanded="false" />
+            <element signature="e#1726#1830#0" expanded="false" />
+            <element signature="e#1852#1955#0" expanded="false" />
+            <element signature="e#2042#2145#0" expanded="false" />
+            <element signature="e#2167#2269#0" expanded="false" />
+            <element signature="e#2299#2359#0" expanded="false" />
+            <element signature="e#2374#2402#0" expanded="false" />
+            <element signature="n#!!block;n#Authorization#0" expanded="false" />
+            <element signature="e#2783#2829#0" expanded="false" />
+            <element signature="e#2842#3468#0" expanded="false" />
+            <element signature="e#3000#3462#0" expanded="false" />
+            <element signature="e#3097#3213#0" expanded="false" />
+            <element signature="e#3257#3367#0" expanded="false" />
+            <element signature="e#3397#3452#0" expanded="false" />
+            <element signature="n#!!block;n#AuthSession#0" expanded="false" />
+            <element signature="e#3878#3936#0" expanded="false" />
+            <element signature="e#3983#4086#0" expanded="false" />
+            <element signature="e#4107#4153#0" expanded="false" />
+            <element signature="e#4441#4530#0" expanded="false" />
+            <element signature="e#4568#4657#0" expanded="false" />
+            <element signature="e#4739#5021#0" expanded="false" />
+            <element signature="e#4816#4921#0" expanded="false" />
+            <element signature="e#5102#5480#0" expanded="false" />
+            <element signature="e#5136#5456#0" expanded="false" />
+            <element signature="e#5330#5430#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/buyProd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/Choose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/BuyProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="65" column="167" lean-forward="false" selection-start-line="65" selection-start-column="167" selection-end-line="65" selection-end-column="167" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/adminPanel-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc;n#GetType#0" expanded="false" />
+            <element signature="n#!!block;n#GetType#0" expanded="false" />
+            <element signature="e#59#245#0" expanded="false" />
+            <element signature="e#436#469#0" expanded="false" />
+            <element signature="e#773#822#0" expanded="false" />
+            <element signature="e#997#1106#0" expanded="false" />
+            <element signature="n#!!doc;n#Search#0" expanded="false" />
+            <element signature="n#!!block;n#Search#0" expanded="false" />
+            <element signature="e#1527#1593#0" expanded="false" />
+            <element signature="e#1610#2077#0" expanded="false" />
+            <element signature="e#1786#2067#0" expanded="false" />
+            <element signature="e#1820#2020#0" expanded="false" />
+            <element signature="e#2095#2269#0" expanded="false" />
+            <element signature="n#!!doc;n#choose#0" expanded="false" />
+            <element signature="n#!!block;n#choose#0" expanded="false" />
+            <element signature="n#!!doc;n#addToPage#0" expanded="false" />
+            <element signature="n#!!block;n#addToPage#0" expanded="false" />
+            <element signature="e#2576#3215#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/buyProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="38" column="101" lean-forward="false" selection-start-line="38" selection-start-column="101" selection-end-line="38" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin-panel/users-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/buy-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="93" column="19" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="93" selection-end-column="19" />
+          <folding>
+            <element signature="e#29#56#0" expanded="false" />
+            <element signature="e#90#225#0" expanded="false" />
+            <element signature="n#!!doc;n#Load#0" expanded="false" />
+            <element signature="e#3167#3257#0" expanded="false" />
+            <element signature="n#!!doc;n#BuyProduct#0" expanded="false" />
+            <element signature="e#3714#3876#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/block-wish_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/wishList-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="85" lean-forward="false" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/fullPage-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="115" column="1" lean-forward="true" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+          <folding>
+            <element signature="e#38#265#0" expanded="false" />
+            <element signature="e#188#221#0" expanded="false" />
+            <element signature="e#240#262#0" expanded="false" />
+            <element signature="n#!!doc;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="e#449#3218#0" expanded="false" />
+            <element signature="e#600#3212#0" expanded="false" />
+            <element signature="e#1242#1728#0" expanded="false" />
+            <element signature="e#1882#2122#0" expanded="false" />
+            <element signature="n#!!doc;n#AddToFavorite#0" expanded="false" />
+            <element signature="n#!!block;n#AddToFavorite#0" expanded="false" />
+            <element signature="e#3329#3848#0" expanded="false" />
+            <element signature="e#3353#3421#0" expanded="false" />
+            <element signature="e#3438#3840#0" expanded="false" />
+            <element signature="e#3616#3830#0" expanded="false" />
+            <element signature="e#3649#3759#0" expanded="false" />
+            <element signature="e#3858#3908#0" expanded="false" />
+            <element signature="n#!!doc;n#choose#0" expanded="false" />
+            <element signature="n#!!block;n#choose#0" expanded="false" />
+            <element signature="n#!!doc;n#editPage#0" expanded="false" />
+            <element signature="n#!!block;n#editPage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/AddProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2935">
+          <caret line="577" column="0" lean-forward="false" selection-start-line="577" selection-start-column="0" selection-end-line="577" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/JDBConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="542" column="0" lean-forward="false" selection-start-line="542" selection-start-column="0" selection-end-line="542" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#JDBConnector#0" expanded="false" />
+            <element signature="method#JDBConnector#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#Search#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#GetSortedData#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#AddUser#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#Verification#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#Authorisation#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#NewPass#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#ChangePass#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#checkUser#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#getUserEmail#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#GetProductList#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#Remove#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#RemoveFromWish#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#RemoveFromSale#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#BuyProduct#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#AddToWish#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#SearchUsers#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#GetUserInfo#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#ChangeUserInfo#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#GetSellerID#0;class#JDBConnector#0" expanded="false" />
+            <element signature="method#GetSales#0;class#JDBConnector#0" expanded="false" />
+            <marker date="1559474927829" expanded="false" signature="1729:1992" ph="SELECT * FRO... products" />
+            <marker date="1559474927829" expanded="false" signature="7929:8065" ph="INSERT INTO web_shop.users... " />
+            <marker date="1559474927829" expanded="false" signature="9180:9223" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="9577:9642" ph="UPDATE db_sh... " />
+            <marker date="1559474927829" expanded="false" signature="10013:10092" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="11137:11181" ph="{...}" />
+            <marker date="1559474927829" expanded="false" signature="11336:11394" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="11837:11892" ph="UPDATE db_sh... " />
+            <marker date="1559474927829" expanded="false" signature="12402:12457" ph="UPDATE db_sh... " />
+            <marker date="1559474927829" expanded="false" signature="12725:12770" ph="SELECT id FR... users" />
+            <marker date="1559474927829" expanded="false" signature="13288:13345" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="13918:13959" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="15861:15913" ph="SELECT selle... products" />
+            <marker date="1559474927829" expanded="false" signature="16911:16978" ph="DELETE FROM " />
+            <marker date="1559474927829" expanded="false" signature="17663:17723" ph="DELETE FROM " />
+            <marker date="1559474927829" expanded="false" signature="22309:22393" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="22309:22396" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="22309:22565" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="22309:22604" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="22309:22623" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="23524:23556" ph="SELECT * FRO... users" />
+            <marker date="1559474927829" expanded="false" signature="24786:24884" ph="UPDATE web_s... " />
+            <marker date="1559474927829" expanded="false" signature="24786:24897" ph="UPDATE web_s... " />
+            <marker date="1559474927829" expanded="false" signature="24786:24898" ph="UPDATE web_s... " />
+            <marker date="1559474927829" expanded="false" signature="25780:25823" ph="SELECT selle... products" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="method#Product#1;class#Product#0" expanded="false" />
+            <element signature="method#Product#2;class#Product#0" expanded="false" />
+            <element signature="method#Product#3;class#Product#0" expanded="false" />
+            <element signature="method#Product#4;class#Product#0" expanded="false" />
+            <element signature="method#Product#5;class#Product#0" expanded="false" />
+            <element signature="method#Product#6;class#Product#0" expanded="false" />
+            <element signature="method#Product#7;class#Product#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlets/EditProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/addProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/editProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="63" column="85" lean-forward="false" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/adding-product-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/editing-product-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/user-info-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="78" lean-forward="false" selection-start-line="39" selection-start-column="78" selection-end-line="39" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/reg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="128" column="27" lean-forward="false" selection-start-line="128" selection-start-column="27" selection-end-line="128" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/registration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="56" column="4" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="59" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>Shop Project:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29791895" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29791895" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29791895" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Shop Project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29791895" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-fileupload-1.3-javadoc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29791895" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

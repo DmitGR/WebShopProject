@@ -1,0 +1,59 @@
+/*---------- Страница Покупки товара ----------*/
+#block-form-buyProd{
+    margin-top: 16px;
+    height: 450px;
+    margin-left: 20px;
+}
+#form-buyProd li{
+    margin-top: 40px;
+}
+#buyProd_address{
+    height: 64px;
+}
+#form-buyProd > li > p, textarea{
+    height: 30px;
+    width: 320px;
+    font: 17px sans-serif;
+    margin-right: 100px;
+    padding-left: 5px;
+    color: black;
+    border-left: 1px solid #ABABAB;
+    border-top: 1px solid #ABABAB;
+    border-right: 1px solid #DDDDDD;
+    border-bottom: 1px solid #DDDDDD;
+    float: right;
+}
+#buyProd_count{
+    height: 30px;
+    width: 320px;
+    font: 17px sans-serif;
+    margin-right: 100px;
+    padding-left: 5px;
+    color: black;
+    border-left: 1px solid #ABABAB;
+    border-top: 1px solid #ABABAB;
+    border-right: 1px solid #DDDDDD;
+    border-bottom: 1px solid #DDDDDD;
+    float: right;
+}
+
+#buyProd_address{
+    resize: none;
+
+}
+
+#buyProd_count{
+    margin-top: 5px;
+}
+
+#form-buyProd > li > label{
+    font: 15px sans-serif;
+}
+.star2{
+    font: 16px sans-serif;
+    color: #E35903;
+    position: absolute;
+
+}
+
+
